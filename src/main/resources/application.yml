@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    password: root
+    username: user
+    url: jdbc:postgresql://localhost:5432/db_animals
+
